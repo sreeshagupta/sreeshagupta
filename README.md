@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/sreeshagupta/sreeshagupta/master/intro.gif" alt="👋 Hi there! I'm (Sreesha Gupta)" title="👋 Hi there! I'm Sreesha Gupta"/>]
+<img src="https://github.com/sreeshagupta/sreeshagupta/blob/main/socials/intro.gif" alt="👋 Hi there! I'm (Sreesha Gupta)" title="👋 Hi there! I'm Sreesha Gupta"/>
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sreeshagupta.sreeshagupta&color=00cf00)
 
@@ -17,15 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🖥 Graphic Designer and ML Enthusiast
 - 💼 Full time Content Creator at Kalliope KIIT
 - 🎓 B.Tech CSE at KIIT
 - 🌐 Connect with me on Gmail @ [sreeshagupta.sg@gmail.com]
-
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
