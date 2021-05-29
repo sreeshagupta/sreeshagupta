@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 - 🖥 Graphic Designer and ML Enthusiast
-- 💼 Full time Content Creator at Kalliope KIIT
+- 💼 Full-time Content Creator at Kalliope KIIT
 - 🎓 B.Tech CSE at KIIT
-- 🌐 Connect with me on Gmail @ [sreeshagupta.sg@gmail.com]
+- 🌐 Connect with me on Gmail  [sreeshagupta.sg@gmail.com]
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [<img src="https://raw.githubusercontent.com/sreeshagupta/sreeshagupta/master/socials/twitter.svg" height="40em" align="center" alt="Follow sreeshagupta on Twitter" title="Follow sreeshagupta on Twitter"/>](https://twitter.com/gupta_sreesha)
 [<img src="https://raw.githubusercontent.com/sreeshagupta/sreeshagupta/master/socials/instagram.svg" height="40em" align="center" alt="Follow sreeshagupta on Instagram" title="Follow sreeshagupta on Instagram"/>](https://www.instagram.com/reallysreesha/)
 
-## ⚡ 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚠𝚎𝚗𝚝 𝚒𝚗𝚝𝚘 𝚝𝚑𝚒𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎
+## ⚡Few cool things I've done!
 
 - Did an internship at Craftsutra for video editing and social media management
 - Worked as a Drafting Officer at TEDx KIIT University
